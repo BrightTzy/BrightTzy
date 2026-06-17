@@ -1,6 +1,6 @@
 <img width="700" height="270" alt="Image" src="https://github.com/user-attachments/assets/66378acc-c13e-42f1-a41f-6b102760c9f2" />
 
-## Hi there, This is Saw Lin Htet 👋
+## Hi there, I'm Saw Lin Htet 👋
 I'm currently studying Computer Science at Assumption University of Thailand. I'm highly focusing on CyberSecurity career path and studying Data Science/AI at the University at the same time.
 
 
