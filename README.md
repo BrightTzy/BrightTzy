@@ -15,6 +15,8 @@
   <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/metasploit" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" height="40"/>
 </div>
 
 <br>
