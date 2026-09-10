@@ -19,7 +19,7 @@
 
 <br>
 
-## Programming Languages
+## Tech Stack
 
 <div>
   <img src="https://cdn.simpleicons.org/python" height="40"/>
@@ -31,6 +31,10 @@
   <img src="https://cdn.simpleicons.org/css" height="40"/>
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/javascript" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/mongodb" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" height="40"/>
 </div>
 
 </br>
