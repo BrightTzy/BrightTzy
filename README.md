@@ -8,6 +8,8 @@
 ## Cybersecurity Tools
 
 <div>
+  <img src="https://cdn.simpleicons.org/kalilinux" height="40"/>
+  <img width="12"/>
   <img src="https://cdn.simpleicons.org/parrotsecurity" height="40"/>
   <img width="12"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40"/>
