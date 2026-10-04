@@ -1,6 +1,6 @@
 ## Hi there, I'm Saw Lin Htet 👋
 
-- Studying Computer Science at Assumption University of Thailand </br>
+- Computer Science Student at Assumption University of Thailand </br>
 - Interested in Cybersecurity & Data Science/AI
 
 
